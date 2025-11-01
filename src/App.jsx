@@ -69,14 +69,14 @@ function App() {
           <div className="grid md:grid-cols-2 gap-8 mb-12">
             <div className="overflow-hidden rounded-2xl shadow-lg hover:scale-105 transition-transform duration-500">
               <img
-                src="public/Screenshot 2025-10-29 at 7.45.00 PM.png"
+                src="/Screenshot 2025-10-29 at 7.45.00 PM.png"
                 alt="Manjit with SUV"
                 className="w-full h-[480px] object-cover"
               />
             </div>
             <div className="overflow-hidden rounded-2xl shadow-lg hover:scale-105 transition-transform duration-500">
               <img
-                src="public/Screenshot 2025-10-29 at 7.44.43 PM.png"
+                src="/Screenshot 2025-10-29 at 7.44.43 PM.png"
                 alt="Manjit with Jeep"
                 className="w-full h-[480px] object-cover"
               />
@@ -119,7 +119,7 @@ function App() {
             {/* Side Portrait */}
             <div className="mt-10 md:mt-0 md:ml-10">
               <img
-                src="public/Screenshot 2025-10-30 at 4.07.25 PM.png"
+                src="/Screenshot 2025-10-30 at 4.07.25 PM.png"
                 alt="Manjit Singh Rathore portrait"
                 className="w-72 h-72 object-cover rounded-2xl shadow-md mx-auto md:mx-0"
               />
