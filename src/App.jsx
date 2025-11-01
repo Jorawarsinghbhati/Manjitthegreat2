@@ -312,21 +312,21 @@ function App() {
               desc: "Explore the Golden City's magnificent forts, havelis, and cultural landmarks with our experienced local drivers.",
               price: "Starting from ₹500",
               icon: <MapPin style={{ color: currentTheme.accent }} />,
-              image: "public/Sam_Sand_Dunes_sunset_529b8e68.png"
+              image: "/Sam_Sand_Dunes_sunset_529b8e68.png"
             },
             {
               title: "District Travel",
               desc: "Comfortable rides to nearby districts with transparent pricing at just ₹14 per kilometer.",
               price: "Starting from ₹14/km",
               icon: <Car style={{ color: currentTheme.accent }} />,
-              image: "public/Desert_highway_Rajasthan_9071d489.png"
+              image: "/Desert_highway_Rajasthan_9071d489.png"
             },
             {
               title: "State-to-State Journeys",
               desc: "Long-distance travel across state borders with competitive rates and experienced drivers.",
               price: "Starting from Custom Pricing",
               icon: <Shield style={{ color: currentTheme.accent }} />,
-              image: "public/Gadisar_Lake_reflection_2c967e5b.png"
+              image: "/Gadisar_Lake_reflection_2c967e5b.png"
             }
           ].map((service, index) => (
             <motion.div
